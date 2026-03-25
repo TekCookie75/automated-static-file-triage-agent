@@ -1,0 +1,12 @@
+inbox/
+reports/
+processed/
+logs/
+venv/
+skill/
+*.py
+*.sh
+*.service
+*.md
+CLAUDE.md
+README.md
